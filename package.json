@@ -1,0 +1,21 @@
+{
+  "name": "@xlayers/sketch-ingestor",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.11",
+    "@angular/core": "^8.2.11"
+  },
+  "main": "bundles/xlayers-sketch-ingestor.umd.js",
+  "module": "fesm5/xlayers-sketch-ingestor.js",
+  "es2015": "fesm2015/xlayers-sketch-ingestor.js",
+  "esm5": "esm5/xlayers-sketch-ingestor.js",
+  "esm2015": "esm2015/xlayers-sketch-ingestor.js",
+  "fesm5": "fesm5/xlayers-sketch-ingestor.js",
+  "fesm2015": "fesm2015/xlayers-sketch-ingestor.js",
+  "typings": "xlayers-sketch-ingestor.d.ts",
+  "metadata": "xlayers-sketch-ingestor.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
